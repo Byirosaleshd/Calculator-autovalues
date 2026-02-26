@@ -28,7 +28,7 @@ Una aplicación web interactiva construida con **Python** y **Streamlit** que pe
 ### 1. Clonar el repositorio
 ```bash
 git clone [https://github.com/Byirosaleshd/Calculator-autovalues](https://github.com/Byirosaleshd/Calculator-autovalues.git)
-cd TU_REPOSITORIO
+```
 
 ## Uso local
 
